@@ -1,0 +1,26 @@
+[
+    {
+        "age": 23,
+        "email": "Prosanto.shinu@tekmindz.com",
+        "name": "Prosanto",
+        "phone": 9632565675
+    },
+    {
+        "age": 19,
+        "email": "Abhay.saini@tekmindz.com",
+        "name": "Abhay",
+        "phone": 9632587879
+    },
+    {
+        "age": 22,
+        "email": "Divyansh.asthana@tekmindz.com",
+        "name": "Divyansh",
+        "phone": 6394841009
+    },
+    {
+        "age": 21,
+        "email": "Jatin.kalani@tekmindz.com",
+        "name": "Jatin",
+        "phone": 9458762135
+    }
+]
